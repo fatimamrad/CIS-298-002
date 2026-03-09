@@ -12,5 +12,5 @@ Basic stock explorer program using the Massive API.
 Run the program using:
 
 ```
-python main.py
+main.py
 ```

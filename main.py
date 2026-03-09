@@ -2,7 +2,7 @@ import requests
 import json
 import os
 
-API_KEY = "YOUR_API_KEY_HERE"
+API_KEY = "Y6m2OzB6PtI67PkMaAFnzDx0dtixSKVt"
 BASE_URL = "https://api.massive.com/v3/reference/tickers"
 
 CACHE_FILE = "cache.json"
